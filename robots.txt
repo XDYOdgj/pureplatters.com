@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pureplatters.com/sitemap.xml
